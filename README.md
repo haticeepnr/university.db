@@ -1,0 +1,2 @@
+# university.db
+üniversiteveritabanı
